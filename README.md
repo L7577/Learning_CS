@@ -106,7 +106,7 @@
 
 [操作系统-清华大学-陈渝](https://www.xuetangx.com/course/THU08091000267/7753473)
 
-[b站-操作系统-哈工大李治军](bilibili.com/video/BV1d4411v7u7?from=search&seid=2361361014547524697)
+[b站-操作系统-哈工大李治军](https://www.bilibili.com/video/BV1d4411v7u7?from=search&seid=2361361014547524697)
 
 [学堂在线-高级操作系统-清华大学-陈渝](https://www.xuetangx.com/course/thu080917777/10327454?channel=i.area.learn_title)
 
